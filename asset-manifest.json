@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/university-managment/static/css/main.8db0b671.css",
+    "main.js": "/university-managment/static/js/main.fb7a431a.js",
+    "static/js/787.8cb7e7aa.chunk.js": "/university-managment/static/js/787.8cb7e7aa.chunk.js",
+    "static/media/login.jpg": "/university-managment/static/media/login.7284e4b721e6ac1c8ae6.jpg",
+    "index.html": "/university-managment/index.html",
+    "main.8db0b671.css.map": "/university-managment/static/css/main.8db0b671.css.map",
+    "main.fb7a431a.js.map": "/university-managment/static/js/main.fb7a431a.js.map",
+    "787.8cb7e7aa.chunk.js.map": "/university-managment/static/js/787.8cb7e7aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db0b671.css",
+    "static/js/main.fb7a431a.js"
+  ]
+}
